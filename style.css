@@ -1,0 +1,15 @@
+header{
+    text-transform: uppercase;
+    text-align:center;
+    background-color:rgb(105, 26, 26)  ;
+    font-weight: 900;
+    font-size: 2rem;
+    position: sticky;
+    top: 0;
+    margin-bottom:50px;
+    padding:30px 0px;
+}
+
+div{
+    color:aliceblue;
+}
